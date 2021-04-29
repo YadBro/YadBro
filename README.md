@@ -6,7 +6,7 @@
 <br>
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
-<img src="https://yt3.ggpht.com/a/AATXAJxkp3R3wNlUT2IKYBvDYmCUJZrEbFtwLjLddR_3-g=s900-c-k-c0x00ffffff-no-rj" width="150" height="200" align="right">
+<img src="https://yt3.ggpht.com/a/AATXAJxkp3R3wNlUT2IKYBvDYmCUJZrEbFtwLjLddR_3-g=s900-c-k-c0x00ffffff-no-rj" width="155" height="180" align="right">
 <li>
 <b>Name:</b> Yadi Apriyadi | Yadi</li>
 <li>
