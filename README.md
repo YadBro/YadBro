@@ -7,6 +7,7 @@
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
 <img src="https://yt3.ggpht.com/a/AATXAJxkp3R3wNlUT2IKYBvDYmCUJZrEbFtwLjLddR_3-g=s900-c-k-c0x00ffffff-no-rj" width="155" height="180" align="right">
+<br>
 <li>
 <b>Name:</b> Yadi Apriyadi | Yadi</li>
 <li>
@@ -26,6 +27,7 @@
 <img src="https://thumbs.gfycat.com/AstonishingCourteousCurassow-max-1mb.gif" align="right">
 </div>
 <div>
+<br>
 <p align="center"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br> <img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%24f2a0"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/php%20-%23323330.svg?&style=for-the-badge&logo=php&logoColor=%24f2a0"/> <br><br>
 Jomblo
 </p>
