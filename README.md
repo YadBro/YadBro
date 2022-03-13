@@ -38,7 +38,6 @@ Jomblo
 <p align="center">Hewe awe some of my <br>
 most used s-s-sociaw things >~< xoxox</p>
 <p align="center"> <a href="https://discord.gg/SvHeFWNtK5" target="_blank"><img src="https://img.shields.io/badge/Smart%20People%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
-<p align="center"><a href="https://www.youtube.com/channel/UCVb30GM1v3MEi3vWs48GAgg" target="_blank"><img src="https://img.shields.io/badge/YadBro%20Channel%20-E124FF.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a></p>
 </div>
 <br>
 <div>
