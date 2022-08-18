@@ -49,4 +49,5 @@ most used s-s-sociaw things >~< xoxox</p>
 <hr>
 </div>
 </div>
+[![Yadi Apriyadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YadBro)](https://github.com/anuraghazra/github-readme-stats)
 </body>
