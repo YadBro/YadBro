@@ -1,3 +1,5 @@
+
+<body>
 <h1 align="center">Hi 👋, I'm Yadi Apriyadi</h1>
 <h3 align="center">A passionate Backend Developer from Indonesia</h3>
 
@@ -14,6 +16,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yadbro&show_icons=true&locale=en" alt="yadbro" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yadbro&" alt="yadbro" /></p>
+</body>
 
-<h3 align="left">My Badges:</h3>
-![My Codewarrior Profile Badge](https://www.codewars.com/users/estraviz/badges/large)
+
+```
+My badge:
+```
+![My Codewarrior Profile Badge](https://www.codewars.com/users/YadBro/badges/large)
