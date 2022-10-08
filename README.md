@@ -23,3 +23,4 @@
 My badge:
 ```
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/YadBro/badges/large)
+![](https://komarev.com/ghpvc/?username=YadBro&style=flat-square)
