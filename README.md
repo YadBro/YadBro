@@ -20,6 +20,6 @@
 ```
 My badge:
 ```
-[https://www.codewars.com/users/YBC_UwU/badges/large](https://www.codewars.com/users/YBC_UwU/badges/large)
+![Codewars](https://github.r2v.ch/codewars?user=YBC_UwU&stroke=%23BB432C)
 <br />
 ![](https://komarev.com/ghpvc/?username=YadBro&style=flat-square)
